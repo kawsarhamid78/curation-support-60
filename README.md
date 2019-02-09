@@ -1,1 +1,1 @@
-# curation-support-60
+# weku-newbies-upvote-bot
