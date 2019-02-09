@@ -2,10 +2,10 @@
   "botToken": "DISCORD_BOT_TOKEN",
   "username": "WEKU_USERNAME",
   "postingKey": "WEKU_WIF",
-  "weight": 13,
+  "weight": 60,
   "minPostAge": "30 minutes ago",
   "maxPostAge": "4 days ago",
   "commandPrefix" : "$",
-  "adminList": [ "478630106257031189", "411865062731677696"],
+  "adminList": [ "502056419751755786", "489286159143534613"],
   "runtimeConfigFile": "config-runtime.json"
 }
